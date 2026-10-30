@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+networkx
+numpy
+pydantic
+httpx
+python-dotenv
+scikit-learn
+global-land-mask
